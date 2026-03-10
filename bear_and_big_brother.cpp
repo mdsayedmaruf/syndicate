@@ -10,7 +10,7 @@ int main()
         a *= 3;
         b *= 2;
         n++;
-        if (a >= b)
+        if (a > b)
         {
             break;
         }
